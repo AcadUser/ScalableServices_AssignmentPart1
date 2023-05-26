@@ -10,9 +10,16 @@ h1{
     padding-top: 4em;
     color: #333;
 }
+ul{
+    list-style: none;
+    padding: 0;
+}
+ul li{
+    text-align:left;
+}
 
-p{
-    margin: 2em 0;
+table{
+    margin: 0 auto;
 }
 img{
     width: 20em;
